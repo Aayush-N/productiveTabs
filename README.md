@@ -1,14 +1,8 @@
-# weather-homepage
+# Productive New Tab Page
 
-This template should help get you started developing with Vue 3 in Vite.
+This page can be used as a replacement to the default new tab page, it provides features such as weather and ToDo lists to keep yourself productive
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
