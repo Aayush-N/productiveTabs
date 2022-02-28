@@ -1,6 +1,6 @@
-# Productive New Tab Page
+# Productive Tabs
 
-This page can be used as a replacement to the default new tab page, it provides features such as weather and ToDo lists to keep yourself productive
+This page can be used as a replacement to the default new tab page, it provides features such as weather and ToDo lists to keep yourself productive while browsing the internet
 
 
 
